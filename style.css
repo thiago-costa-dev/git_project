@@ -12,8 +12,10 @@ body {
 .title {
     margin: 1em;
     font-size: 2em; 
+    transition: 1s;
 }
 
 .blue {
     color: blue;
+    font-size: 5em;
 }
